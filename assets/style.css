@@ -1,0 +1,18 @@
+html{
+    background-color: rgb(46, 44, 44);
+}
+
+body{
+    background-color: rgb(245, 242, 242);
+    margin-left: 450px;
+    margin-right: 450px;
+    border: 2px solid black;
+}
+
+.subtitle{
+    color: rgb(100, 156, 16);
+}
+
+.content{
+    margin: 50px;
+}
